@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sabit Memmedov</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
-<p align="left"> <img src="" alt="sabitmemmedovh" /> </p>
 
 - 🔭 I’m currently working on **Nexaway**
 
