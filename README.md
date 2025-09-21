@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sabit Memmedov</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
-<p align="left"> <img src="https://media.licdn.com/dms/image/v2/D4D16AQHQrj7q1GrVFA/profile-displaybackgroundimage-shrink_350_1400/B4DZZKBWoOGwAY-/0/1744998592457?e=1761177600&v=beta&t=4mgN_CQGicxyWa35jWdkSx7lGtlre-FjXBXqcWzza1w" alt="sabitmemmedovh" /> </p>
+<p align="left"> <img src="" alt="sabitmemmedovh" /> </p>
 
 - 🔭 I’m currently working on **Nexaway**
 
